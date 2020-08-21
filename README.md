@@ -1,4 +1,4 @@
-# Elastic Stack Kubernetes Helm Charts
+# Elastic Stack Kubernetes Helm Charts TGIF
 
 [![Build Status](https://img.shields.io/jenkins/s/https/devops-ci.elastic.co/job/elastic+helm-charts+master.svg)](https://devops-ci.elastic.co/job/elastic+helm-charts+master/)
 
